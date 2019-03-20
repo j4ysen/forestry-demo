@@ -4,6 +4,8 @@ banner_image: "/img/banner.png"
 layout: landing-page
 heading: Belkirk College
 partners:
+- "/uploads/2017/11/14/alejandra-higareda-295605.jpg"
+- "/uploads/2018/02/25/car.jpg"
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
